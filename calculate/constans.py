@@ -1,0 +1,6 @@
+START_SYMBOLS = "-> "
+PLUS = "+"
+DIFFERENCE = "-"
+DIVISION = "/"
+MULTIPLIKATION = "*"
+DEGREE = "**"

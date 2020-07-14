@@ -1,0 +1,7 @@
+END_DIALOG = "end"
+SUGGESTION = "Я не знаю ответа на этот вопрос, может спросите что-нибудь другое?"
+CHOOSE_THEME = "Выберите тему."
+END_TEXT = "До встречи."
+OK_TEXT = "Давай"
+FIND_OUT_SOMETHING = "Что Вы хотите узнать?"
+CHANGING_THE_SUBJECT = "я хочу сменить тему"
